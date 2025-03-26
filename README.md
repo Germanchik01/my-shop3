@@ -15,8 +15,7 @@ If you are developing a production application, we recommend using TypeScript an
 Инструкция
 1) Скачиваем файлы. git clone https://github.com/Germanchik01/my-shop3.git
 2) открываем их.
-3) npm create vite@latest my-shop --template react
-4) cd my-shop
-5) npm install
-6) npm install @reduxjs/toolkit react-redux @mui/material @emotion/react @emotion/styled axios react-router-dom (Одна строка)
-7) и пишем команды json-server --watch public/data.json --port 3001 и npm run dev
+3) npm install
+4) npm install @reduxjs/toolkit react-redux @mui/material @emotion/react @emotion/styled axios react-router-dom (Одна строка)
+5) npm install framer-motion
+6) и пишем команды json-server --watch public/data.json --port 3001 и npm run dev
